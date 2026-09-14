@@ -1,5 +1,5 @@
 ### 📊 Retail Sales Analytics
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](Retail-Report.png)
 
 **Overview:**
 An end-to-end Power BI business intelligence project that turns a messy, real-world-style Excel export into a governed data model and a fully interactive 3-page executive dashboard. The source workbook simulates a legacy retail order system — 8 loosely related sheets covering orders, customers, products, stores, regions, employees, returns, and budget targets — deliberately riddled with mixed date formats, nulls, duplicates, and inconsistent formatting.
@@ -29,4 +29,4 @@ With sales data scattered across disconnected tables, stakeholders had no reliab
 
 **Files:**
 - [`Retail Sales Analytics.pbix`](Retail%20Sales%20Analytics.pbix) — Power BI file
-- [Dashboard Screenshot.png](dashboard-screenshot.png) — Preview image
+- [Dashboard Screenshot.png](Retail-Report.png) — Preview image
