@@ -1,11 +1,3 @@
-# Power BI Portfolio
-
-My Power BI dashboards and data analytics projects, showcasing skills in data modeling, DAX, Power Query, and dashboard design.
-
----
-
-## 📊 Projects
-
 ### 📊 Retail Sales Analytics
 ![Dashboard Screenshot](dashboard-screenshot.png)
 
